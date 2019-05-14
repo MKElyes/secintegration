@@ -79,7 +79,15 @@ h4 {
 .bot {
     margin-top: 230px;
 }
-
+#nav1 {
+    margin-left: 120px;
+}
+.custom-file-label::after{
+    content: "send";
+    background-color: black;
+    color: aliceblue;
+    width: 30%;
+}
 
 /* slide cards */
 /* .second {
